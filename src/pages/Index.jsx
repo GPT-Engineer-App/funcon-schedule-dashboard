@@ -48,7 +48,7 @@ const schedule = [
 
 const Index = () => {
   return (
-    <Container centerContent maxW="container.md" py={10} bg="orange.50">
+    <Container centerContent maxW="100%" width="100%" py={10} bg="orange.50">
       <VStack spacing={8}>
         <Heading as="h1" size="2xl" color="orange.600">
           FunCon @ Funnel.io
