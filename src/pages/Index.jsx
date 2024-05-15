@@ -5,13 +5,13 @@ const schedule = [
   {
     time: "09:00 AM",
     title: "Opening Keynote",
-    speaker: "Jane Doe",
+    speaker: "Peter",
     location: "Main Hall",
   },
   {
     time: "10:00 AM",
     title: "React Best Practices",
-    speaker: "John Smith",
+    speaker: "Sofia",
     location: "Room 101",
   },
   {
